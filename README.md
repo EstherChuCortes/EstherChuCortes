@@ -1,3 +1,13 @@
+```python
+class ReadMe:
+    def __init__(self, username="EstherChuCortes", year=2022):
+        self.username = username
+        self.name = 'Esther Cortés'
+        self.education = {
+            'programming': ['Full Stack Software Development blockchain'],
+            'educations': ['Master in Blockchain Development and full stack'],
+        }
+
     def doing(self, now=2022):
         today = self.year
         if now = today:
