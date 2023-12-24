@@ -6,9 +6,9 @@ class ReadMe:
         self.education = {
             'programming': ['Full Stack Software Development blockchain'],
             'educations': ['Master in Blockchain Development and full stack'],
-            'my_languages': ['Python,HTML5,CSS3,Javascript,Rust,Solidity'],
-            'database': ['MySQL','MongoDB'],
-            'bookshop': ['Django','Node.js','Reat','Remix'],
+            'my_languages': ['Python,HTML5,CSS3,Javascript,Solidity'],
+            'database': ['MySQL'],
+            'bookshop': ['Django','Node.js','Reat','Vue.js'],
             'control_version': ['GitHub'],
             'editor': ['Visual Studio Code'],
             'criptocurrency': ['Ethereum'],
