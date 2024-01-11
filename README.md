@@ -18,7 +18,7 @@ class ReadMe:
     def doing(self, now=2022):
         today = self.year
         if now = today:
-            dream = self.education['Blockchain Devolopment and full stack']
+            dream = self.education['Devolopment full stack and Blockchain ']
             return """
             I am currently learning {code} at {code_academy_ConquerBlock}.
             """.format(code=dream[0], code_academy_ConquerBlock=dream[1])
@@ -27,7 +27,7 @@ class ReadMe:
             goal = self.employment['developer']
             return """
             I am eager to collaborate with {teams} on {projects}.
-            """.format(teams=goal[0], projects='Blockchain Devolopment and full stack')
+            """.format(teams=goal[0], projects='Devolopment full stack and Blockchain')
         else:
             return """
             ### Hi there 👋
