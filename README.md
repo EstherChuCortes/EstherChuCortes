@@ -4,21 +4,21 @@ class ReadMe:
         self.username = username
         self.name = 'Esther Cortés'
         self.education = {
-            'programming': ['Developer Full Stack and Blockchain'],
-            'educations': ['Master in Blockchain Development full stack'],
-            'my_languages': ['Python,HTML5,CSS3,Javascript,Solidity'],
+            'programming': ['Developer Full Stack'],
+            'educations': ['Master Developer Full Stack'],
+            'Web Development': ['HTML, CSS, javascript'],
+            'Backend Tecnologies': ['Python, Node.js'],
             'database': ['MySQL'],
-            'bookshop': ['Django','Node.js','Reat','Vue.js'],
+            'Front-End Frameworks': ['Reat','Vue.js'],
             'control_version': ['GitHub'],
             'editor': ['Visual Studio Code'],
-            'criptocurrency': ['Ethereum'],
-            'social': ['Discord','ester6723'],  
+            'social': ['X','@BarrioCort7876'],  
         }
 
     def doing(self, now=2022):
         today = self.year
         if now = today:
-            dream = self.education['Devolopment full stack and Blockchain ']
+            dream = self.education['Devolopment full stack']
             return """
             I am currently learning {code} at {code_academy_ConquerBlock}.
             """.format(code=dream[0], code_academy_ConquerBlock=dream[1])
@@ -27,7 +27,7 @@ class ReadMe:
             goal = self.employment['developer']
             return """
             I am eager to collaborate with {teams} on {projects}.
-            """.format(teams=goal[0], projects='Devolopment full stack and Blockchain')
+            """.format(teams=goal[0], projects='Devolopment full stack')
         else:
             return """
             ### Hi there 👋
