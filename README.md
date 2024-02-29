@@ -4,7 +4,7 @@ class ReadMe:
         self.username = username
         self.name = 'Esther Cortés'
         self.education = {
-            'programming': ['Developer Full Stack'],
+            'programming': ['Developer Front-End'],
             'educations': ['Master Developer Full Stack'],
             'Web Development': ['HTML, CSS, javascript'],
             'Backend Tecnologies': ['Python, Node.js'],
