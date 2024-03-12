@@ -33,12 +33,4 @@ class ReadMe:
       me = ReadMe(2022)
            
      
-        opportunity[role] = [organization, location]
-
-me = ReadMe(2022)
-‘’'’’
-
-
-
-
-
+ 
