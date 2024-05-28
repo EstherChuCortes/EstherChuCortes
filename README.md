@@ -34,7 +34,7 @@
 **Responsive-Landing-Page**
 <p>Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.</p>
 
-[**Enlace a Gitpage**]() ó [**Enlace al Código Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Responsive-Landing-Page)
+[**Enlace a Gitpage**](https://estherchucortes.github.io/HTML-CSS-Responsive-Landing-Page/) ó [**Enlace al Código Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Responsive-Landing-Page)
 
 **Footers**
 <p>Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los footers de tus proyectos. Aquí encontrarás cuatro ideas emocionantes de footers, optimizado para pantallas de 1200px de ancho. Dos con un elegante estilo claro y dos con un enigmático estilo oscuro.</p>
