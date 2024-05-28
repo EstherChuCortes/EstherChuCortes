@@ -26,13 +26,31 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ## Proyectos destacados
-[Microsite-Portafolio](https://github.com/EstherChuCortes/HTML-CSS-Microsite-Portfolio)
+**Microsite-Portafolio**
+<p>Este repositorio contiene el código fuente para un microsite de portafolio responsive. La plantilla está desarrollada utilizando HTML y CSS y está optimizada para dispositivos móviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios.</p>
 
-[Responsive-Landing-Page](https://github.com/EstherChuCortes/HTML-CSS-Responsive-Landing-Page)
+[**Enlace a Gitpage**](https://estherchucortes.github.io/HTML-CSS-Microsite-Portfolio/) ó [**Enlace al Codigo Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Microsite-Portfolio)
 
-[Footers](https://github.com/EstherChuCortes/HTML-CSS-Footers)
+**Responsive-Landing-Page**
+<p>Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.</p>
 
-[Juego sudoku de colores](https://estherchucortes.github.io/sudokuColores/)
+[**Enlace a Gitpage**]() ó [**Enlace al Codigo Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Responsive-Landing-Page)
+
+**Footers**
+<p>Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los footers de tus proyectos. Aquí encontrarás cuatro ideas emocionantes de footers, optimizado para pantallas de 1200px de ancho. Dos con un elegante estilo claro y dos con un enigmático estilo oscuro.</p>
+
+[**Enlace al Codigo Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Footers)
+
+**Juego sudoku de colores**
+<p>El código incluye funciones para crear el tablero, añadir colores fijos, permitir al jugador seleccionar y cambiar colores en las celdas, verificar si el tablero está completo y mostrar mensajes de victoria o derrota. También se incluyen funciones para controlar el tiempo transcurrido, reiniciar el temporizador y formatear el tiempo en formato HH:MM:SS.</p>
+
+[**Enlace a Gitpage**](https://estherchucortes.github.io/sudokuColores/) ó  [**Enlace al Codigo Fuente**]()
+
+
+
+
+
+
 
 ## Contacto
 ¡Gracias por visitar mi perfil ! estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, puedes encontrarme en el correo electonico o LinkedIn: 
