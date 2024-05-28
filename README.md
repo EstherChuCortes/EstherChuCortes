@@ -32,6 +32,8 @@
 
 [Footers](https://github.com/EstherChuCortes/HTML-CSS-Footers)
 
+[Juego sudoku de colores](https://estherchucortes.github.io/sudokuColores/)
+
 ## Contacto
 ¡Gracias por visitar mi perfil ! estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, puedes encontrarme en el correo electonico o LinkedIn: 
 <br>
