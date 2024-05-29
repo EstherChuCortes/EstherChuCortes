@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h1 align="center"> Hola! Soy Esther, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Maquetadora Web | Desarrolladora Frontend. </h1> 
+<h1 align="center"> Hola! Soy Esther, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Web Builder | Maquetador Web. </h1> 
 
 <h2 align="center">Soy una apasionada maquetadora web, me encanta crear diseños atractivos y funcionales que mejoren la experiencia del usuario en la web.</h2>
 
