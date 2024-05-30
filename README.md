@@ -36,10 +36,10 @@
 
 [**Enlace a Gitpage**](https://estherchucortes.github.io/HTML-CSS-Responsive-Landing-Page/) ó [**Enlace al Código Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Responsive-Landing-Page)
 
-**Footers**
-<p>Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los footers de tus proyectos. Aquí encontrarás cuatro ideas emocionantes de footers, optimizado para pantallas de 1200px de ancho. Dos con un elegante estilo claro y dos con un enigmático estilo oscuro.</p>
+**Responsive-Madern.Art.Gallery**
+<p>.Este proyecto se centra en crear un sitio web responsive para una galería de arte moderno. La página se adapta a tres tamaños de pantalla: móvil (414px), tablet (768px) y desktop (1200px), garantizando una experiencia visual óptima en cada dispositivo. Desarrollado con HTML, procesador SASS.</p>
 
-[**Enlace al Código Fuente**](https://github.com/EstherChuCortes/HTML-CSS-Footers)
+[**Enlace a Gitpage**](https://estherchucortes.github.io/Responsive-Madern.Art.Gallery/) ó [**Enlace al Código Fuente**](https://github.com/EstherChuCortes/RESPONSIVE-MADERN.ART.GALLERY)
 
 **Juego sudoku de colores**
 <p>El código incluye funciones para crear el tablero, añadir colores fijos, permitir al jugador seleccionar y cambiar colores en las celdas, verificar si el tablero está completo y mostrar mensajes de victoria o derrota. También se incluyen funciones para controlar el tiempo transcurrido, reiniciar el temporizador y formatear el tiempo en formato HH:MM:SS.</p>
