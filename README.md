@@ -49,7 +49,7 @@
         <p><strong>HTML5, CSS3</strong> - Coworking-space: Pagina web responsive, optimizada para dispositivos moviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios. Incluye elementos como el logotipo de la marca, el menú de navegación, opciones de acceso y registro, y otras funcionalidades importantes para la navegación y la interacción con el sitio.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">HTML-CSS3-Microsite-Portofolio</h3>
+      <h3 align="center">Responsive-Microsite-Portofolio</h3>
         <br />
       <a target="_blank" href="https://estherchucortes.github.io/HTML-CSS-Microsite-Portfolio/">
             <img src="img/micro-portafolio.jpeg" width="100%"  alt="Microsite Portofolio"/>
@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Sass</strong> - Modern-Art-Gallery: Un sitio web responsive para una galería de arte moderno. La página se adapta a tres tamaños de pantalla: móvil (414px), tablet (768px) y desktop (1200px), garantizando una experiencia visual óptima en cada dispositivo.</p>
+        <p><strong>Responsive</strong> - Modern-Art-Gallery: Un sitio web responsive para una galería de arte moderno. La página se adapta a tres tamaños de pantalla: móvil (414px), tablet (768px) y desktop (1200px), garantizando una experiencia visual óptima en cada dispositivo.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">HTML-CSS-Responsive-Landing-Page</h3>
@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Sass</strong> - Landing-Pages: Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.</p>
+        <p><strong>Responsive</strong> - Landing-Pages: Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.</p>
     </td>
   </tr>
   
