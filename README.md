@@ -139,8 +139,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://estherchucortes.github.io/Cronometro/"target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VER 
-    WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript</strong> - Cronometro: Este cronómetro está diseñado para medir el tiempo con precisión. Puedes iniciar, pausar y reiniciar el cronómetro según tus necesidades.</p>
