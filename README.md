@@ -57,10 +57,10 @@
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/EstherChuCortes/HTML-CSS-Microsite-Portfolio" target="_blank">
+  <a href="https://github.com/EstherChuCortes/Responsive-Microsite-Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://estherchucortes.github.io/HTML-CSS-Microsite-Portfolio/" target="_blank">
+  <a href="https://estherchucortes.github.io/Responsive-Microsite-Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
