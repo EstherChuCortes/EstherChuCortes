@@ -30,24 +30,6 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Header-Responsive-Coworking-Space</h3>
-        <br />
-        <a target="_blank" href="https://estherchucortes.github.io/Heeader-Responsive-Coworking-Space/">
-            <img src="img/Coworking Space.png" width="100%" alt="Header-Responsive"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/EstherChuCortes/Responsive-header-Coworking-Space?tab=readme-ov-file" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://estherchucortes.github.io/Responsive-header-Coworking-Space/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3</strong> - Coworking-space: Pagina web responsive, optimizada para dispositivos moviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios. Incluye elementos como el logotipo de la marca, el menú de navegación, opciones de acceso y registro, y otras funcionalidades importantes para la navegación y la interacción con el sitio.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Responsive-Microsite-Portofolio</h3>
         <br />
       <a target="_blank" href="https://estherchucortes.github.io/HTML-CSS-Microsite-Portfolio/">
@@ -65,8 +47,25 @@
       </p>
         <p><strong>HTML5, CSS3, Sass</strong> - Microsite Portafolio :  Para un microsite de portafolio responsive. La plantilla está optimizada para dispositivos móviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios. Secciones organizadas para resaltar habilidades, proyectos, educación y experiencia laboral.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Header-Responsive-Coworking-Space</h3>
+        <br />
+        <a target="_blank" href="https://estherchucortes.github.io/Heeader-Responsive-Coworking-Space/">
+            <img src="img/Coworking Space.png" width="100%" alt="Header-Responsive"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/EstherChuCortes/Responsive-header-Coworking-Space?tab=readme-ov-file" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://estherchucortes.github.io/Responsive-header-Coworking-Space/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3</strong> - Coworking-space: Pagina web responsive, optimizada para dispositivos moviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios. Incluye elementos como el logotipo de la marca, el menú de navegación, opciones de acceso y registro, y otras funcionalidades importantes para la navegación y la interacción con el sitio.</p>
+    </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Landing-Pages-Responsive-Madern.Art.Gallery</h3>
