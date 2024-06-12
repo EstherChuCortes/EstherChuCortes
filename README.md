@@ -51,7 +51,7 @@
       <h3 align="center">Portafolio-Esther-Cortes-Barrio</h3>
         <br />
         <a target="_blank" href="https://estherchucortes.github.io/portafolio-Esther_Cortes_barrio/">
-          <img src="img/cronometro.jpeg" width="100%" alt="Portafolio"/>
+          <img src="img/screenshot2.png" width="100%" alt="Portafolio"/>
         </a>
         <br />
         <p align="center">
