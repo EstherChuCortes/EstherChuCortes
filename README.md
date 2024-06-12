@@ -47,6 +47,25 @@
       </p>
         <p><strong>HTML5, CSS3, Sass</strong> - Microsite Portafolio :  Para un microsite de portafolio responsive. La plantilla está optimizada para dispositivos móviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios. Secciones organizadas para resaltar habilidades, proyectos, educación y experiencia laboral.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portafolio-Esther-Cortes-Barrio</h3>
+        <br />
+        <a target="_blank" href="https://estherchucortes.github.io/portafolio-Esther_Cortes_barrio/">
+          <img src="img/cronometro.jpeg" width="100%" alt="Portafolio"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/EstherChuCortes/portafolio-Esther_Cortes_barrio" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://estherchucortes.github.io/portafolio-Esther_Cortes_barrio/"target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+       </p>
+       <p><strong>HTML5, CSS3, Javascript, Bootstrap 5</strong> - Portafolio: El propósito de esta página web es mostrar el portafolio de proyectos de una desarrolladora y su experiencia. Incluye una descripción breve 
+         de su motivación, experiencia, proyectos y formas de contacto.</p>
+    </td>
     
  
   <tr>
@@ -125,6 +144,7 @@
       </p>
         <p><strong>HTML5, CSS3, Javascript</strong> - Cronometro: Este cronómetro está diseñado para medir el tiempo con precisión. Puedes iniciar, pausar y reiniciar el cronómetro según tus necesidades.</p>
     </td>
+     
   </tr>
 </table>
 
