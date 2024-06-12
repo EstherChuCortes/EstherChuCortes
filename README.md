@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h1 align="center"> Hola! Soy @EstherChu<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Desarrollador Frontend</h1> 
+<h1 align="center"> Hola! Soy @EstherChu<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Desarrollador Frontend</h1>
 
 <h2 align="center">Soy una apasionada maquetadora web, me encanta crear diseños atractivos y funcionales que mejoren la experiencia del usuario en la web.</h2>
-
 
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
 
- ## Sobre mí
+## Sobre mí
+
  <p alinn="center">
     Soy una profesional creativa y comprometida en el diseño y desarrollo web. Me apasiona aprender nuevas tecnologías y tendencias para mantenerme actualizada en un mundo digital en constante evolución.
  </p>
@@ -20,11 +20,11 @@
 ## Tecnologías que manejo
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/ubuntu-%23F05033.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt = "ubuntu"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/ubuntu-%23F05033.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt = "ubuntu"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src = "https://img.shields.io/badge/Vite-%23404d59.svg?style=for-the-badge&logo=vite&logoColor=%2361DAFB" alt = "Vite"/>
 
-
 ## Proyectos ⚙️
+
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
   
@@ -54,6 +54,7 @@
           <img src="img/screenshot2.png" width="100%" alt="Portafolio"/>
         </a>
         <br />
+        <br/>
         <p align="center">
           <br>
           <a href="https://github.com/EstherChuCortes/portafolio-Esther_Cortes_barrio" target="_blank">
@@ -148,10 +149,9 @@
   </tr>
 </table>
 
-
-
 ## Contacto
-¡Gracias por visitar mi perfil ! estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, puedes encontrarme en el correo electonico o LinkedIn: 
+
+¡Gracias por visitar mi perfil ! estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, puedes encontrarme en el correo electonico o LinkedIn:
 <br>
 
 <p align="center">
@@ -161,8 +161,3 @@
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
-
-
-           
-     
- 
