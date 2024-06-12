@@ -30,10 +30,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Responsive-Microsite-Portofolio</h3>
+      <h3 align="center">Responsive-Microsite-Portfolio</h3>
         <br />
       <a target="_blank" href="https://estherchucortes.github.io/HTML-CSS-Microsite-Portfolio/">
-            <img src="img/micro-portafolio.jpeg" width="100%"  alt="Microsite Portofolio"/>
+            <img src="img/micro-portafolio.jpeg" width="100%"  alt="Microsite Portfolio"/>
         </a>
         <br />
         <p align="center">
