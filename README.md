@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hola! Soy @EstherChu<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Desarrollador Frontend</h1>
 
-<h2 align="center">Soy una apasionada maquetadora web, me encanta crear diseños atractivos y funcionales que mejoren la experiencia del usuario en la web.</h2>
+<h2 align="center">Soy una apasionada desarrolladora frontend con experiencia en la creación de interfaces de usuario altamente usables e interactivas para aplicaciones web complejas. Mi enfoque se centra en la experiencia del usuario y en la entrega de soluciones de alta calidad. </h2>
 
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
