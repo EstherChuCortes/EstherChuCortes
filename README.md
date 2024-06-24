@@ -15,7 +15,7 @@
  </p>
  <p> - 👩‍🎓 Actualmente estudiando en **Academia ConquerX** en **Development Full Stack**.
  <p> - 🤝 Estoy disponible para trabajar como Frontend Development.</p>
- <p> - 📫 Cómo contactar conmigo **estherchu13@hotmail.com**</p>
+ <p> - 📫 Cómo contactar conmigo **esthercortesbarrio@outlook.es**</p>
   
 ## Tecnologías que manejo
 
@@ -157,7 +157,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esther-cort%C3%A9s-barrio-4129b3105/" target="blank"><img align="center" src="https://img.shields.io/badge/Esther Cortés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-  /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:estherchu13@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/estherchu13@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+  /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:esthercortesbarrio@outlook.es" target="blank"><img align="center" src="https://img.shields.io/badge/esthercortesbarrio@outlook.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
   /></a>
 </p>
 
