@@ -11,7 +11,7 @@
 ## Sobre mí
 
  <p alinn="center">
-    Soy una profesional creativa y comprometida en el diseño y desarrollo web. Me apasiona aprender nuevas tecnologías y tendencias para mantenerme actualizada en un mundo digital en constante evolución.
+    Soy una profesional creativa y comprometida en el desarrollo web. Me apasiona aprender nuevas tecnologías y tendencias para mantenerme actualizada en un mundo digital en constante evolución.
  </p>
  <p> - 👩‍🎓 Actualmente estudiando en **Academia ConquerX** en **Development Full Stack**.
  <p> - 🤝 Estoy disponible para trabajar como Frontend Development.</p>
