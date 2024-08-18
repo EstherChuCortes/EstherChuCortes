@@ -61,7 +61,7 @@
           <a href="https://github.com/EstherChuCortes/portafolio-Esther_Cortes_barrio" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
           </a>
-          <a href="https://estherchucortes.github.io/portafolio-Esther_Cortes_barrio/"target="_blank">
+          <a href="https://estherchucortes.github.io/portafolio-Esther_Cortes_Barrio/">
             <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
        </p>
